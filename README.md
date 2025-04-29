@@ -19,6 +19,9 @@ Mathematics PhD Candidate at Syracuse University specializing in Commutative Alg
 - Graph theory and combinatorics
 - Probability and statistics
 
+## 📄 My Paper
+- Betti Numbers for Modules Over Artinian Local Rings (https://arxiv.org/abs/2503.11866)
+
 ## 🌱 Currently Learning
 
 - Advanced techniques in systematic finance
