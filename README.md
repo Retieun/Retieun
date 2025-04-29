@@ -61,14 +61,6 @@ Mathematics PhD Candidate at Syracuse University specializing in Commutative Alg
   - Instructor for Calculus I, Calculus II, and Probability & Statistics
   - Mentor for the Directed Reading Program
 
-- **Intern** - FEDIMOSS (2023)
-  - Evaluated open-source codebases
-  - Improved performance and scalability
-
-- **Intern** - Zhengzhou JinHui Computer System Engineering Ltd. (2019)
-  - Analyzed code complexity
-  - Optimized execution speed and maintainability
-
 ## 📝 Recent Presentations
 
 - "Invariant of Cohen-Macaulay Ring and its application" - AMS Special Session, SUNY Albany (October 2024)
