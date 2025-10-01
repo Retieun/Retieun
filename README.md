@@ -79,7 +79,6 @@ Mathematics PhD Candidate at Syracuse University specializing in Commutative Alg
 
 ## 📫 How to Reach Me
 
-- Email: hekaiyue@hotmail.com
 - LinkedIn: [linkedin.com/in/kaiyuehe](https://linkedin.com/in/kaiyuehe)
 
 ## ⚡ Fun Facts
