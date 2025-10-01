@@ -11,8 +11,7 @@ Mathematics PhD from at Syracuse University specializing in Commutative Algebra 
 
 - Learning: Exploring quantum cryptography and its deep connections with algebraic geometry.
 
-- Career: Actively seeking academic and industry opportunities where I can apply my mathematical expertise, algorithmic thinking, and research background.
-
+- Career: Open to academic and industry opportunities in mathematics, AI, and quantitative research
 ## 🧠 Research Interests
 
 - Commutative Algebra and Homological Algebra
