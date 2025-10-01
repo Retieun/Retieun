@@ -55,10 +55,9 @@ Mathematics PhD from at Syracuse University specializing in Commutative Algebra 
 
 ## 🎓 Education
 
-- **PhD in Mathematics**  - Syracuse University
-- **MS in Mathematics** - Syracuse University
-- **BA in Mathematics** - Brandeis University
-- **High School** - Church Farm School
+- **PhD in Mathematics**  2025 - Syracuse University
+- **MS in Mathematics**  2021 - Syracuse University
+- **BA in Mathematics** 2018 - Brandeis University
 
 ## 💼 Experience
 
