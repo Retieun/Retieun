@@ -5,13 +5,13 @@
 Mathematics PhD from at Syracuse University specializing in Commutative Algebra and Homological Algebra. Passionate about solving complex problems through data-driven approaches and mathematical modeling. I am currecntly a post-doc researcher in Syracuse University
 
 ## 🔭 Current Work
-Research: Studying the Auslander–Reiten Conjecture, with a focus on homological algebra and related algebraic structures.
+-Research: Studying the Auslander–Reiten Conjecture, with a focus on homological algebra and related algebraic structures.
 
-AI Development: Building and training an AI agent specialized in homological algebra (with plans to expand its scope to broader areas of mathematics).
+-AI Development: Building and training an AI agent specialized in homological algebra (with plans to expand its scope to broader areas of mathematics).
 
-Learning: Exploring quantum cryptography and its deep connections with algebraic geometry.
+-Learning: Exploring quantum cryptography and its deep connections with algebraic geometry.
 
-Career: Actively seeking academic and industry opportunities where I can apply my mathematical expertise, algorithmic thinking, and research background.
+-Career: Actively seeking academic and industry opportunities where I can apply my mathematical expertise, algorithmic thinking, and research background.
 
 ## 🧠 Research Interests
 
