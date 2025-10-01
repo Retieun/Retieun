@@ -2,22 +2,25 @@
 
 ## 👋 About Me
 
-Mathematics PhD Candidate at Syracuse University specializing in Commutative Algebra and Homological Algebra. Quantitative researcher with expertise in algorithm development and data analysis. Passionate about solving complex problems through data-driven approaches and mathematical modeling.
+Mathematics PhD from at Syracuse University specializing in Commutative Algebra and Homological Algebra. Passionate about solving complex problems through data-driven approaches and mathematical modeling. I am currecntly a post-doc researcher in Syracuse University
 
 ## 🔭 Current Work
+Research: Studying the Auslander–Reiten Conjecture, with a focus on homological algebra and related algebraic structures.
 
-- Finalizing PhD research on Betti numbers and module theory over Noetherian local rings
-- Exploring computational methods for algebraic invariants
-- Developing algorithms for data analysis in Python and R
-- Competing in Kaggle competitions (achieved top 300 rankings)
+AI Development: Building and training an AI agent specialized in homological algebra (with plans to expand its scope to broader areas of mathematics).
+
+Learning: Exploring quantum cryptography and its deep connections with algebraic geometry.
+
+Career: Actively seeking academic and industry opportunities where I can apply my mathematical expertise, algorithmic thinking, and research background.
 
 ## 🧠 Research Interests
 
 - Commutative Algebra and Homological Algebra
-- Betti numbers and their growth in Artinian rings
-- Cohen-Macaulay rings and their applications
+- Cryptography
 - Graph theory and combinatorics
 - Probability and statistics
+- LLM
+- AI agent
 
 ## 📄 My Paper
 - Betti Numbers for Modules Over Artinian Local Rings (https://arxiv.org/abs/2503.11866)
@@ -53,7 +56,7 @@ Mathematics PhD Candidate at Syracuse University specializing in Commutative Alg
 
 ## 🎓 Education
 
-- **PhD in Mathematics** (Candidate - 2025) - Syracuse University
+- **PhD in Mathematics**  - Syracuse University
 - **MS in Mathematics** - Syracuse University
 - **BA in Mathematics** - Brandeis University
 - **High School** - Church Farm School
