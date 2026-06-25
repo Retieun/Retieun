@@ -1,86 +1,30 @@
-# Kaiyue He
+## Hi, I'm Kaiyue 👋
 
-## 👋 About Me
+Mathematics Ph.D. (Syracuse University) working as an applied scientist. My background is in
+pure math — homological algebra, free resolutions, Betti numbers — and I now build and validate
+machine learning systems, with a focus on **generative modeling** and **large-scale model optimization**.
 
-Mathematics PhD from at Syracuse University specializing in Commutative Algebra and Homological Algebra. Passionate about solving complex problems through data-driven approaches and mathematical modeling. I am currecntly a post-doc researcher in Syracuse University
+I care about the unglamorous half of ML: not just getting a model to train, but knowing whether
+you can trust what it tells you. A lot of my work is about calibration, uncertainty, and rigorous
+evaluation.
 
-## 🔭 Current Work
-- Research: Studying the Auslander–Reiten Conjecture, with a focus on homological algebra and related algebraic structures.
+### What I work on
+- **Generative & vision-language models** — fine-tuning LLMs/SLMs and VLMs (PaliGemma, Gemma family)
+  with parameter-efficient methods (QLoRA/PEFT, 4-bit quantization) under tight compute budgets.
+- **Trustworthy ML** — calibration (ECE), uncertainty quantification (Monte Carlo Dropout),
+  robustness and distribution-shift testing, confound auditing.
+- **Predictive modeling** — forecasting and classification with leakage-free, time-aware evaluation.
 
-- AI Development: Building and training an AI agent specialized in homological algebra (with plans to expand its scope to broader areas of mathematics).
+### Tools
+Python (advanced) · SQL · R · C++ (building proficiency) · PyTorch · Hugging Face ·
+XGBoost / LightGBM · NumPy / Pandas / SciPy / Scikit-learn · Git · LaTeX
 
-- Learning: Exploring quantum cryptography and its deep connections with algebraic geometry.
-
-- Career: Open to academic and industry opportunities in mathematics, AI, and quantitative research
-## 🧠 Research Interests
-
-- Commutative Algebra and Homological Algebra
-- Cryptography
-- Graph theory and combinatorics
-- Probability and statistics
-- LLM
-- AI agent
-
-## 📄 My Paper
-- Betti Numbers for Modules Over Artinian Local Rings (https://arxiv.org/abs/2503.11866)
-
-## 🌱 Currently Learning
-
-- Advanced techniques in systematic finance
-- Machine learning and data science applications
-- Market dynamics and cross-asset correlations
-- Performance optimization in computational mathematics
-
-## 🛠️ Skills
-
-**Programming Languages:**
-- Python (NumPy, PyTorch, Pandas, Matplotlib, Seaborn)
-- R
-- MySQL
-- LaTeX
-
-**Tools:**
-- Tableau
-- Excel
-- Git
-- Ubuntu Linux
-
-**Core Competencies:**
-- Quantitative analysis
-- Statistical methods
-- Algorithm development
-- Data visualization
-- Complex problem-solving
-- Research methods
-
-## 🎓 Education
-
-- **PhD in Mathematics**  2025 - Syracuse University
-- **MS in Mathematics**  2021 - Syracuse University
-- **BA in Mathematics** 2018 - Brandeis University
-
-## 💼 Experience
-
-- **Teaching Experience** - Syracuse University (2018-Present)
-  - Instructor for Calculus I, Calculus II, and Probability & Statistics
-  - Mentor for the Directed Reading Program
-
-## 📝 Recent Presentations
-
-- "Invariant of Cohen-Macaulay Ring and its application" - AMS Special Session, SUNY Albany (October 2024)
-- "Invariant of Cohen-Macaulay Ring and its application" - Algebra Seminar, Syracuse University (October 2024)
-- "Spectral Sequence and Its Application" - WALKS, Syracuse University (February 2023)
-
-## 👯 Looking to Collaborate On
-
-- Research projects in commutative algebra
-- Data analysis and machine learning applications
-- Computational mathematics problems
-- Open-source mathematical software
-
-## 📫 How to Reach Me
-
-- LinkedIn: [linkedin.com/in/kaiyuehe](https://linkedin.com/in/kaiyuehe)
+### A bit more
+I spent years as the sole instructor of record for 400+ students, which shaped how I work:
+I try to take messy quantitative problems all the way to clear, actionable conclusions, and
+explain them to technical and non-technical audiences alike. I'm also a published researcher
+(Journal of Pure and Applied Algebra, 2026) — so I'm comfortable owning a problem end-to-end,
+from open question to validated result.
 
 ## ⚡ Fun Facts
 
